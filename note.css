@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 20px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Noto Serif KR', serif;
     font-size: 20px;
   }
 #title{
@@ -10,9 +10,6 @@ body{
 #name{
     font-size: 30px;
 }
-.t{
-    font-size: 15px;
-}
-#o{
-    margin-top: 30px;
+#content{
+    font-size: 30px;
 }
