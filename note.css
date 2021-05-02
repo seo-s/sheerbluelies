@@ -1,9 +1,11 @@
 body{
     margin: 20px;
     padding: 50px;
-    font-family: 'Noto Serif KR', serif;
+    font-family: 'Noto Sans HK', sans-serif;
+    font-weight: 600;
     font-size: 40px;
-  }
+  background-color: #090982;
+}
 .title{
     font-size: 70px;
     font-weight: 700;
@@ -25,4 +27,5 @@ body{
 #content{
     font-size: 40px;
     font-weight: 600;
+    font-style: italic;
 }
